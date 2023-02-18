@@ -15,7 +15,6 @@ const AddUser = ({navigation}) => {
 
     const handleAddUser = () =>{
 
-        console.log("Add user");
         navigation.navigate('Home');
 
     }
